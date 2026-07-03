@@ -1,0 +1,11 @@
+--- !ruby/object:PluginManager::Config
+name: PokemonMounts
+authors:
+- tnelsonw
+version: 0.1.0.0
+deps: []
+retry_psdk_compatibility_after_plugin_load: false
+added_files:
+- Data/Text/Dialogs/100096.csv
+- Data/Studio/items/mount_saddle.json
+- graphics/icons/saddle32.png
